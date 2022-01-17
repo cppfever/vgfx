@@ -1,0 +1,6 @@
+[submodule "3dparty/pwindow"]
+	path = 3dparty/pwindow
+	url = https://github.com/vgui/pwindow.git
+[submodule "3dparty/imgui"]
+	path = 3dparty/imgui
+	url = https://github.com/ocornut/imgui.git
